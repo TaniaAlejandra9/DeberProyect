@@ -14,6 +14,7 @@ public class Movie {
     private short year;  
     private boolean viwear;
     private int timeviwer;
+    
 
     public Movie(int id, String title, String genero, String creador, int duration, short year, boolean viwear, int timeviwer) {
         this.id = id;

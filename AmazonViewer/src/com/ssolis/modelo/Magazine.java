@@ -3,6 +3,7 @@ package com.ssolis.modelo;
 /**
   * @Instituto Rumiñahui
  * @author SSolis
+ * @author Tania Quilachamin
  */
 public class Magazine {
    

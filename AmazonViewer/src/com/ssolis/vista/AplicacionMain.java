@@ -12,6 +12,7 @@ import com.ssolis.modelo.Serie;
  * @author SSolis
  * @author Tania Quilachamin
  */
+
 public class AplicacionMain {
   public static void main(String[] args) {
         System.out.println("hola mundo");

@@ -7,7 +7,7 @@ package com.ssolis.modelo;
  */
 public class Chapter {
 
-private int id;
+    private int id;
     private String title;
     private String genero;
     private String creador;

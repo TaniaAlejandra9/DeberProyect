@@ -6,7 +6,7 @@ package com.ssolis.modelo;
  * @author Tania Quilachamin
  */
 public class Serie {
-   private int id;
+   private int id; 
     private String title;
     private String genero;
     private String creador;

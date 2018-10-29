@@ -15,7 +15,7 @@ public class Film {
     private boolean viewed;
         
         
-public Film(String title, String genere, String creator, int duration, short year, boolean viewed) {
+public Film(String title, String genere, String creator, int duration, short yea, boolean viewed) {
        
         this.title = title;
         this.genere = genere;
