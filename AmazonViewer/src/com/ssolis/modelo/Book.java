@@ -5,5 +5,9 @@ package com.ssolis.modelo;
  * @author SSolis
  */
 public class Book {
+    int id,duration,timeViewed;
+  short year;
+  boolean viewed;
+  String title;
 
 }
